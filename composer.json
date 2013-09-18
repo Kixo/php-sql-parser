@@ -3,7 +3,6 @@
     "type": "library",
     "description": "SQL parsing tools for PHP",
     "license": "BSD-2-Clause",
-    "version" : "1.0.0",
     "require": {
         "php": ">=5.3.3"
     },
@@ -15,6 +14,5 @@
         { "name": "André Rothe", "email": "phosco@gmx.de" },
         { "name": "Dan Vande More", "homepage": "https://github.com/fimbulvetr", "role": "contributor" },
         { "name": "Andy White", "homepage": "https://github.com/soundintheory", "role": "maintainer" }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
